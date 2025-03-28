@@ -1,0 +1,1 @@
+This is the segmentation task i'm working on how precisely a model can segment the cancerous region like a doctor.
